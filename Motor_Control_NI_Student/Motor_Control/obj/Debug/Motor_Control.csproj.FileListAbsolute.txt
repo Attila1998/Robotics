@@ -1,0 +1,34 @@
+C:\Users\Aron\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\Motor_Control.exe.config
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\Motor_Control.exe.config
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\Motor_Control.exe
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\Motor_Control.pdb
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\MmTimer.dll
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.Motor_Control_Form.resources
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.Properties.Resources.resources
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.csproj.GenerateResource.Cache
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.exe
+C:\Users\martonl\Desktop\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control_NI_Tested_2016_Sept_OK\Motor_Control\obj\Debug\Motor_Control.pdb
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.exe.config
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.exe
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.pdb
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.exe
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.pdb
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.csprojResolveAssemblyReference.cache
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.Motor_Control_Form.resources
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.Properties.Resources.resources
+C:\Users\martonl\Desktop\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.csproj.GenerateResource.Cache
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.exe.config
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.exe
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.pdb
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.exe
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\Motor_Control.pdb
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\MmTimer.dll
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.csprojResolveAssemblyReference.cache
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.Motor_Control_Form.resources
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.Properties.Resources.resources
+C:\Diak\Hamar Mark\Motor_Control_NI_Student\Motor_Control\obj\Debug\Motor_Control.csproj.GenerateResource.Cache
